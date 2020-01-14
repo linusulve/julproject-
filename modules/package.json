@@ -1,0 +1,21 @@
+{
+  "name": "julklapp",
+  "version": "1.0.0",
+  "description": "julprojekt till onsdagen den 7de kl 5",
+  "main": "merrydatabase.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express.js": "^1.0.0",
+    "loader.js": "^4.7.0",
+    "mysql": "^2.17.1",
+    "package.json": "^2.0.1",
+    "require": "^2.4.20"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
